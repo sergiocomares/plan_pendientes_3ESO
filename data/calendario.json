@@ -1,0 +1,11 @@
+{
+  "semanas": [
+    { "titulo": "Semana 1", "contenido": "Números reales; potencias, raíces y notación científica", "bloqueId": "numeros-reales" },
+    { "titulo": "Semana 2", "contenido": "Proporcionalidad, porcentajes y sucesiones", "bloqueId": "proporcionalidad" },
+    { "titulo": "Semana 3", "contenido": "Expresiones algebraicas y polinomios", "bloqueId": "expresiones-algebraicas" },
+    { "titulo": "Semana 4", "contenido": "Ecuaciones de primer y segundo grado", "bloqueId": "ecuaciones-sistemas" },
+    { "titulo": "Semana 5", "contenido": "Sistemas de ecuaciones y problemas", "bloqueId": "ecuaciones-sistemas" },
+    { "titulo": "Semana 6", "contenido": "Funciones y gráficas", "bloqueId": "funciones" },
+    { "titulo": "Semana 7", "contenido": "Geometría, estadística y repaso final", "bloqueId": "geometria" }
+  ]
+}
