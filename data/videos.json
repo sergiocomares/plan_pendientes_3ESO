@@ -2,46 +2,55 @@
   {"bloqueId":"numeros-reales","items":[
     {"titulo":"Números reales: clasificación, ejemplos y ejercicios","descripcion":"Repaso de racionales, irracionales y clasificación de los números reales.","youtubeId":"fzWCqlM_Hx0","canal":"Clases Particulares en Ávila"},
     {"titulo":"Números racionales e irracionales","descripcion":"Explicación visual para distinguir números racionales e irracionales con ejemplos.","youtubeId":"6khaK08qz-E","canal":"Daniel Carreón"},
-    {"titulo":"Ejercicios con intervalos: desigualdades y recta numérica","descripcion":"Relación entre desigualdades, intervalos y su representación gráfica.","youtubeId":"PmWyGkQ1gtg","canal":"Susi Profe"}
+    {"titulo":"Ejercicios con intervalos: desigualdades y recta numérica","descripcion":"Relación entre desigualdades, intervalos y su representación gráfica.","youtubeId":"PmWyGkQ1gtg","canal":"Susi Profe"},
+    {"titulo":"Valor absoluto y distancia en la recta","descripcion":"Repaso del valor absoluto mediante distancias y ejemplos.","url":"https://www.youtube.com/results?search_query=valor+absoluto+Daniel+Carreon","canal":"Daniel Carreón"}
   ]},
   {"bloqueId":"potencias-raices","items":[
     {"titulo":"Potencias y raíces: ejercicios típicos","descripcion":"Ejercicios guiados con potencias, raíces y simplificación de radicales.","youtubeId":"gyP4AuXcT6M","canal":"Susi Profe"},
-    {"titulo":"Expresar números en notación científica y decimal","descripcion":"Conversión entre notación científica y números decimales paso a paso.","youtubeId":"cVEO-u1xIVA","canal":"Susi Profe"},
-    {"titulo":"Propiedades de las potencias","descripcion":"Propiedades de las potencias con explicación y ejercicios resueltos.","youtubeId":"y12Op8QMjHs","canal":"Susi Profe"}
+    {"titulo":"Expresar números en notación científica y decimal","descripcion":"Conversión entre notación científica y números decimales paso a paso.","url":"https://www.youtube.com/results?search_query=notacion+cientifica+math2me","canal":"Math2me"},
+    {"titulo":"Propiedades de las potencias","descripcion":"Propiedades de las potencias con explicación y ejercicios resueltos.","youtubeId":"y12Op8QMjHs","canal":"Susi Profe"},
+    {"titulo":"Exponentes negativos","descripcion":"Interpretación y cálculo con potencias de exponente negativo.","url":"https://www.youtube.com/results?search_query=exponentes+negativos+math2me","canal":"Math2me"}
   ]},
   {"bloqueId":"proporcionalidad","items":[
-    {"titulo":"Problema de proporcionalidad directa: regla de tres","descripcion":"Resolución razonada de una situación de proporcionalidad directa.","youtubeId":"n9hBk3IVdyg","canal":"Susi Profe"},
+    {"titulo":"Problema de proporcionalidad directa: regla de tres","descripcion":"Resolución razonada de una situación de proporcionalidad directa.","url":"https://www.youtube.com/results?search_query=proporcionalidad+directa+regla+de+tres+Daniel+Carreon","canal":"Daniel Carreón"},
     {"titulo":"Cómo calcular el tanto por ciento","descripcion":"Cálculo de porcentajes de una cantidad con ejemplos.","youtubeId":"gM9BAOBeTKg","canal":"Susi Profe"},
-    {"titulo":"Aumentos porcentuales","descripcion":"Aplicación de porcentajes para calcular aumentos y variaciones.","youtubeId":"RAHBIReMZdE","canal":"Susi Profe"}
+    {"titulo":"Aumentos porcentuales","descripcion":"Aplicación de porcentajes para calcular aumentos y variaciones.","url":"https://www.youtube.com/results?search_query=aumentos+porcentuales+math2me","canal":"Math2me"},
+    {"titulo":"Repartos proporcionales","descripcion":"Cómo dividir una cantidad siguiendo una razón dada.","url":"https://www.youtube.com/results?search_query=repartos+proporcionales+JulioProfe","canal":"julioProfe"}
   ]},
   {"bloqueId":"sucesiones","items":[
     {"titulo":"Progresión aritmética: término general y suma de términos","descripcion":"Explicación de la diferencia, el término general y la suma en sucesiones aritméticas.","youtubeId":"VUJ6d0qmO34","canal":"Susi Profe"},
-    {"titulo":"Progresión geométrica: término general y suma de términos","descripcion":"Explicación de la razón, el término general y la suma en sucesiones geométricas.","youtubeId":"q-c5VLWvL6w","canal":"Susi Profe"},
-    {"titulo":"Sucesiones y progresiones: curso completo","descripcion":"Recorrido completo por patrones, progresiones aritméticas y geométricas.","youtubeId":"VvOoYZj_OiE","canal":"Matemáticas profe Alex"}
+    {"titulo":"Progresión geométrica: término general y suma de términos","descripcion":"Explicación de la razón, el término general y la suma en sucesiones geométricas.","url":"https://www.youtube.com/results?search_query=progresion+geometrica+JulioProfe","canal":"julioProfe"},
+    {"titulo":"Sucesiones y progresiones: curso completo","descripcion":"Recorrido completo por patrones, progresiones aritméticas y geométricas.","youtubeId":"VvOoYZj_OiE","canal":"Matemáticas profe Alex"},
+    {"titulo":"Patrones y término general","descripcion":"Cómo deducir una regla de formación a partir de los primeros términos.","url":"https://www.youtube.com/results?search_query=sucesiones+termino+general+math2me","canal":"Math2me"}
   ]},
   {"bloqueId":"expresiones-algebraicas","items":[
     {"titulo":"Identidades notables: binomio al cuadrado y suma por diferencia","descripcion":"Productos notables explicados con desarrollo y ejercicios.","youtubeId":"goHUDRbeejM","canal":"Susi Profe"},
-    {"titulo":"Identidades notables: binomio al cubo","descripcion":"Extensión de los productos notables con ejemplos resueltos.","youtubeId":"o799wU3R3lA","canal":"Susi Profe"},
-    {"titulo":"Factorizar polinomios: factor común, Ruffini y productos notables","descripcion":"Guía de factorización que incluye extracción de factor común.","youtubeId":"dfWMHwO9cmo","canal":"Susi Profe"}
+    {"titulo":"Extraer factor común","descripcion":"Cómo sacar factor común de un polinomio con ejemplos paso a paso.","youtubeId":"bbsYAVNQGhI","canal":"YouTube"},
+    {"titulo":"Operaciones con polinomios","descripcion":"Suma, resta y multiplicación de polinomios explicadas con ejemplos.","url":"https://www.youtube.com/results?search_query=operaciones+con+polinomios+Daniel+Carreon","canal":"Daniel Carreón"},
+    {"titulo":"Valor numérico de una expresión","descripcion":"Sustitución de valores y orden de operaciones en álgebra.","url":"https://www.youtube.com/results?search_query=valor+numerico+expresion+algebraica+math2me","canal":"Math2me"}
   ]},
   {"bloqueId":"ecuaciones-sistemas","items":[
     {"titulo":"Sistemas de ecuaciones: sustitución, igualación, reducción y gráfica","descripcion":"Guía completa de los métodos para resolver sistemas de dos ecuaciones.","youtubeId":"j3XL-2CzgbE","canal":"Susi Profe"},
-    {"titulo":"Ecuaciones de primer grado básicas","descripcion":"Repaso del procedimiento para resolver y comprobar ecuaciones de primer grado.","youtubeId":"CN4n6Tfc5WI","canal":"Susi Profe"},
-    {"titulo":"Resolver sistemas 2x2 por el método gráfico","descripcion":"Representación de dos rectas y lectura de la solución del sistema.","youtubeId":"1jMC7JXEenY","canal":"Susi Profe"}
+    {"titulo":"Ecuaciones de primer grado básicas","descripcion":"Repaso del procedimiento para resolver y comprobar ecuaciones de primer grado.","url":"https://www.youtube.com/results?search_query=ecuaciones+de+primer+grado+Daniel+Carreon","canal":"Daniel Carreón"},
+    {"titulo":"Resolver sistemas 2x2 por el método gráfico","descripcion":"Representación de dos rectas y lectura de la solución del sistema.","url":"https://www.youtube.com/results?search_query=sistemas+de+ecuaciones+metodo+grafico+math2me","canal":"Math2me"},
+    {"titulo":"Ecuaciones de segundo grado","descripcion":"Métodos para resolver ecuaciones cuadráticas completas e incompletas.","url":"https://www.youtube.com/results?search_query=ecuaciones+segundo+grado+JulioProfe","canal":"julioProfe"}
   ]},
   {"bloqueId":"funciones","items":[
-    {"titulo":"Funciones lineales: representación gráfica, pendiente y ecuación de la recta","descripcion":"Cómo interpretar y representar funciones lineales y calcular su pendiente.","youtubeId":"H4Tk_WPJPNs","canal":"Susi Profe"},
-    {"titulo":"Funciones lineales: pendiente y ordenada en el origen","descripcion":"Vídeo breve para repasar la pendiente y el corte con el eje vertical.","youtubeId":"BnSomjQoZU8","canal":"Susi Profe"},
-    {"titulo":"El plano cartesiano","descripcion":"Repaso de ejes, coordenadas y localización de puntos en el plano.","youtubeId":"kzOzYY-T-50","canal":"Daniel Carreón"}
+    {"titulo":"Funciones lineales: representación gráfica, pendiente y ecuación de la recta","descripcion":"Cómo interpretar y representar funciones lineales y calcular su pendiente.","url":"https://www.youtube.com/results?search_query=funciones+lineales+math2me","canal":"Math2me"},
+    {"titulo":"Funciones lineales: pendiente y ordenada en el origen","descripcion":"Vídeo breve para repasar la pendiente y el corte con el eje vertical.","url":"https://www.youtube.com/results?search_query=pendiente+y+ordenada+en+el+origen+Daniel+Carreon","canal":"Daniel Carreón"},
+    {"titulo":"El plano cartesiano","descripcion":"Repaso de ejes, coordenadas y localización de puntos en el plano.","youtubeId":"kzOzYY-T-50","canal":"Daniel Carreón"},
+    {"titulo":"Funciones cuadráticas","descripcion":"Introducción a las parábolas, vértice y representación.","url":"https://www.youtube.com/results?search_query=funciones+cuadraticas+math2me","canal":"Math2me"}
   ]},
   {"bloqueId":"geometria","items":[
     {"titulo":"Teorema de Pitágoras: fórmula, demostración y ejemplos","descripcion":"Explicación de Pitágoras con ejercicios para hallar hipotenusas y catetos.","youtubeId":"w6nh99v3r4A","canal":"Susi Profe"},
     {"titulo":"Teorema de Pitágoras para principiantes","descripcion":"Repaso visual de la fórmula y de su aplicación en triángulos rectángulos.","youtubeId":"eTEBvBIz8Ok","canal":"Daniel Carreón"},
-    {"titulo":"Teorema de Tales y semejanza de triángulos","descripcion":"Semejanza, razón de proporcionalidad y aplicaciones del teorema de Tales.","youtubeId":"eoSvj4BbC7U","canal":"Susi Profe"}
+    {"titulo":"Teorema de Tales y semejanza de triángulos","descripcion":"Semejanza, razón de proporcionalidad y aplicaciones del teorema de Tales.","url":"https://www.youtube.com/results?search_query=teorema+de+Tales+semejanza+JulioProfe","canal":"julioProfe"},
+    {"titulo":"Áreas y perímetros de figuras planas","descripcion":"Fórmulas y ejercicios de figuras habituales.","url":"https://www.youtube.com/results?search_query=areas+perimetros+figuras+planas+Daniel+Carreon","canal":"Daniel Carreón"}
   ]},
   {"bloqueId":"estadistica-probabilidad","items":[
-    {"titulo":"Media, moda y mediana","descripcion":"Cálculo e interpretación de las principales medidas de centralización.","youtubeId":"CrItHF8aJ3M","canal":"Susi Profe"},
+    {"titulo":"Media, moda y mediana","descripcion":"Cálculo e interpretación de las principales medidas de centralización.","url":"https://www.youtube.com/results?search_query=media+moda+mediana+Khan+Academy+Espanol","canal":"Khan Academy en Español"},
     {"titulo":"Probabilidad: explicación sencilla","descripcion":"Introducción a la probabilidad de sucesos equiprobables con ejercicios.","youtubeId":"WeeEE8o1aqM","canal":"Daniel Carreón"},
-    {"titulo":"Varianza, desviación típica y coeficiente de variación","descripcion":"Medidas de dispersión para ampliar el análisis de datos estadísticos.","youtubeId":"Vg5PD7FROgo","canal":"Susi Profe"}
+    {"titulo":"Varianza, desviación típica y coeficiente de variación","descripcion":"Medidas de dispersión para ampliar el análisis de datos estadísticos.","url":"https://www.youtube.com/results?search_query=varianza+desviacion+tipica+math2me","canal":"Math2me"},
+    {"titulo":"Diagramas de árbol y probabilidad","descripcion":"Representación de experimentos de varios pasos.","url":"https://www.youtube.com/results?search_query=diagramas+de+arbol+probabilidad+JulioProfe","canal":"julioProfe"}
   ]}
 ]
